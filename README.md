@@ -1,3 +1,5 @@
+-   Vai precisar de NodeJS
+
 abrir a pasta admin no vscode e
 rodar o json server:
 
